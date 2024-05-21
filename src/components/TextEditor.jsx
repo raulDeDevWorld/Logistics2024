@@ -95,7 +95,4 @@ export default function TextEditor({ value, setValue, edit }) {
 
 
   </div>
-
-
-
 }
